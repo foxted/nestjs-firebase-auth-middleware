@@ -1,0 +1,45 @@
+{
+  "name": "nestjs-firebase-auth-middleware",
+  "version": "1.0.0",
+  "description": "Middleware to validate JWT tokens from Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Speakbox/nestjs-firebase-auth-middleware.git"
+  },
+  "keywords": [
+    "nestjs",
+    "firebase",
+    "authentication",
+    "middleware"
+  ],
+  "author": "“Valentin <valentin@whatdafox.com> (http://twitter.com/valentinprngd)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Speakbox/nestjs-firebase-auth-middleware/issues"
+  },
+  "homepage": "https://github.com/Speakbox/nestjs-firebase-auth-middleware#readme",
+  "dependencies": {
+    "firebase-admin": "^8.9.2"
+  },
+  "peerDependencies": {
+    "@nestjs/common": "~6.0",
+    "express": "*"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "cz-conventional-changelog": "^3.1.0",
+    "husky": "^4.2.3",
+    "standard-version": "^7.1.0",
+    "typescript": "^3.8.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
