@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Speakbox/nestjs-firebase-auth-middleware.git"
+    "url": "git+https://github.com/foxted/nestjs-firebase-auth-middleware.git"
   },
   "keywords": [
     "nestjs",
@@ -19,9 +19,9 @@
   "author": "“Valentin <valentin@whatdafox.com> (http://twitter.com/valentinprngd)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Speakbox/nestjs-firebase-auth-middleware/issues"
+    "url": "https://github.com/foxted/nestjs-firebase-auth-middleware.git/issues"
   },
-  "homepage": "https://github.com/Speakbox/nestjs-firebase-auth-middleware#readme",
+  "homepage": "https://github.com/foxted/nestjs-firebase-auth-middleware.git#readme",
   "dependencies": {
     "firebase-admin": "^8.9.2"
   },
