@@ -2,9 +2,10 @@
   "name": "nestjs-firebase-auth-middleware",
   "version": "1.0.0",
   "description": "Middleware to validate JWT tokens from Firebase",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
