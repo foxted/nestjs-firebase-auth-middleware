@@ -1,6 +1,6 @@
 {
   "name": "nestjs-firebase-auth-middleware",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Middleware to validate JWT tokens from Firebase",
   "main": "index.ts",
   "scripts": {
