@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.8](https://github.com/foxted/nestjs-firebase-auth-middleware/compare/v1.0.7...v1.0.8) (2020-02-26)
+
+
+### Bug Fixes
+
+* fix dependency issues ([bbf9c4f](https://github.com/foxted/nestjs-firebase-auth-middleware/commit/bbf9c4f124400bbd18ce023a9402bd3346f93138))
+
 ### [1.0.7](https://github.com/foxted/nestjs-firebase-auth-middleware/compare/v1.0.6...v1.0.7) (2020-02-24)
 
 ### [1.0.6](https://github.com/foxted/nestjs-firebase-auth-middleware/compare/v1.0.5...v1.0.6) (2020-02-24)
