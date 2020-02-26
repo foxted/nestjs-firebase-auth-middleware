@@ -2,7 +2,7 @@
   "name": "nestjs-firebase-auth-middleware",
   "version": "1.0.7",
   "description": "Middleware to validate JWT tokens from Firebase",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p tsconfig.json",
@@ -29,7 +29,8 @@
   },
   "peerDependencies": {
     "@nestjs/common": "~6.0",
-    "express": "*"
+    "express": "*",
+    "reflect-metadata": "~0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
